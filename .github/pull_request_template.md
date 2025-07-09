@@ -29,16 +29,16 @@ Please confirm that you have completed the following requirements by checking al
   - [ ] All PDFs open correctly and are not corrupted
   - [ ] If needed Software and video links are provided as fields in the BibTeX entries (don't provide software or video as files)
 
+- [ ] Permission forms:
+  - [ ] Collected from all authors
+  - [ ] Named according to paper ID with `Permission` suffix
+  - [ ] Placed in the `vXpermissions` directory with X as the volume number
+
 - [ ] We have verified the proceedings by:
   - [ ] Checking all paper PDFs are accessible and correctly named
   - [ ] Validating the BibTeX file syntax
   - [ ] Ensuring all required metadata is present and correctly formatted
   - [ ] Confirming all paper identifiers are unique and follow the naming convention
 
-- [ ] Permission forms:
-  - [ ] Collected from all authors
-  - [ ] Named according to paper ID with `Permission` suffix
-  - [ ] Will be provided separately to the editor.
-
 ### Additional Comments
-<!-- please place any additional information for the PMLR Series Editors here --
+<!-- please place any additional information for the PMLR Series Editors here -->
