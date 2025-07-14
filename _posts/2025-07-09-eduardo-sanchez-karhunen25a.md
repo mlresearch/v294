@@ -27,12 +27,12 @@ order: 396
 cycles: false
 bibtex_author: Eduardo Sanchez-Karhunen, Jose F. Quesada-Moreno, Miguel A. Guti\'errez-Naranjo
 author:
-- given: Miguel A.
-  family: Gutiérrez-Naranjo
 - given: Eduardo
   family: Sanchez-Karhunen
 - given: Jose F.
   family: Quesada-Moreno
+- given: Miguel A.
+  family: Gutiérrez-Naranjo
 date: 2025-07-09
 address:
 container-title: Proceedings of Fourth European Workshop on Algorithmic Fairness
