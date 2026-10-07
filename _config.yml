@@ -10,7 +10,7 @@ sections:
   title: Extended Abstracts
 volume: '294'
 year: '2025'
-start: &1 2025-06-30
+start: 2025-06-30
 end: 2025-07-02
 published: 2025-07-09
 layout: proceedings
@@ -88,7 +88,7 @@ conference:
   url: https://2025.ewaf.org/
   location: Eindhoven University of Technology, Eindhoven, The Netherlands
   dates:
-  - *1
+  - 2025-06-30
   - 2025-07-01
   - 2025-07-02
 analytics:
